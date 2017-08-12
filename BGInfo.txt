@@ -1,0 +1,25 @@
+
+Host Name:	<Host Name>
+
+OS Version:	<OS Version>
+Service Pack:	<Service Pack>
+System Type:	<System Type>
+
+Snapshot Time:	<Snapshot Time>
+Boot Time:	<Boot Time>
+CPU:	<CPU>
+Memory:	<Memory>
+Volumes:	<Volumes>
+Free Space:	<Free Space>
+
+IP Address:	<IP Address>
+Subnet Mask:	<Subnet Mask>
+Default Gateway:	<Default Gateway>
+DNS Server:	<DNS Server>
+
+Logon Server:	<Logon Server>
+Logon Domain:	<Logon Domain>
+Machine Domain:	<Machine Domain>
+
+User Name:	<User Name>
+
